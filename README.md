@@ -10,8 +10,17 @@ displays the result in the Home Assistant UI.
 
 ## Installation
 
-1. Copy the `hass_espcam` folder to your `custom_components` folder.
-2. Add the following to your `configuration.yaml` file:
+### HACS (Recommended)
+1. Add this repository as a custom repository in HACS.
+2. Install the component from HACS.
+
+### Manual Installation
+1. Clone this repository.
+2. Copy the `hass_espcam` folder to your `custom_components` folder. 
+
+## Configuration 
+
+Add the following to your `configuration.yaml` file:
 
 ```yaml
 camera:
