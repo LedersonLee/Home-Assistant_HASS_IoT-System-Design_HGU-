@@ -1,0 +1,9 @@
+# Fill .gitignore
+
+.idea
+*.iml
+*.ipr
+*.iws
+DS_Store
+venv
+.venv
